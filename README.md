@@ -1,10 +1,14 @@
-# Leave App
+<h1 align="center" id="title">leave management mobile application</h1>
 
-A new Flutter project.
+<p id="description">a mobile application that manages leave</p>
 
-## Getting Started
+  
+  
+<h2>💻 Built with</h2>
 
-This project is a starting point for a Flutter application.
+Technologies used in the project:
+
+*   Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
